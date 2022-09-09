@@ -3,7 +3,7 @@
 Git Clone the repository
 Use the following command to run the application
 
-$vagrant up
+$vagrant up<br>
 $vagrant ssh
 
 $cd app/myadventureland/
