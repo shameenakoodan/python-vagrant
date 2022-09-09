@@ -3,10 +3,12 @@
 Git Clone the repository
 Use the following command to run the application
 
-$vagrant up<br>
+$vagrant up
+
 $vagrant ssh
 
-$cd app/myadventureland/
-$python3 welcome.py 
+$cd app/myadventureland
+$python3 welcome.py
+
 
 And you can play the game
